@@ -1,0 +1,13 @@
+Package: YFinder
+Type: Package
+Title: Find Y haplgroups as per YFull tree from a VCF file of Y chromosome of many samples
+Version: 1.0
+RoxygenNote: 7.2.3
+Encoding: UTF-8
+Imports:
+  tidyverse,
+  rrapply,
+  jsonlite,
+  stringr,
+  dplyr,
+  purrr
