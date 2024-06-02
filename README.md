@@ -11,7 +11,7 @@ http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chrY.phase3_integ
 **INSTALLATION** <br />
 Works only on R <br />
 install.packages("devtools") <br />
-devtools::install_github("Agenetics/YFinder") <br />
+devtools::install_github("SahilArvind/YFinder") <br />
 
 **LOAD PACKAGE**<br />
 library(YFinder)<br />
